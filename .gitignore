@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# VS2010
+*.sdf
+Debug
+Release
